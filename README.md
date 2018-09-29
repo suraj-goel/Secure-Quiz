@@ -28,3 +28,10 @@ re-established.
 ##### 2.import SQuiz.sql into your mysql workbench.
 ##### 3.In the Main.java of SQuiz change username and password to that of your Mysql.
 ##### 4.The IP of the server in the client side can be set in Main.java of SQuiz_Client.
+## For more details:
+#### Suraj Goel 
+surajgoel.1225@gmail.com
+
+![screenshot from 2018-09-29 16-13-17](https://user-images.githubusercontent.com/29855009/46244855-02757c00-c403-11e8-9961-8c9575dd90e3.png)
+![screenshot from 2018-09-29 16-13-21](https://user-images.githubusercontent.com/29855009/46244858-0b664d80-c403-11e8-8da3-9363cd97c79d.png)
+
