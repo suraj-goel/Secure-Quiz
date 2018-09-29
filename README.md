@@ -22,4 +22,9 @@ the statistics, more the points)
 encrypted.
 5. In case of a connection breakdown all the answers should be stored in a file/local
 cache (Again in encrypted form) and restored automatically when the connection is
-re-established. (Prefer storing in local in memory cache like redis).
+re-established. 
+## Instructions to Run:
+##### 1.import mysql-connector-java-5.1.46.jar from dependency folder in Sacred_Bazaar and Jfoenix.jar from Sacred_Bazaar_Client into the library of IDE.
+##### 2.import SQuiz.sql into your mysql workbench.
+##### 3.In the Main.java of SQuiz change username and password to that of your Mysql.
+##### 4.The IP of the server in the client side can be set in Main.java of SQuiz_Client.
