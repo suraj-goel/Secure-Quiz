@@ -26,7 +26,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
 import java.util.List;
-
+// Controller For Dashboard
 public class Controller_DashBoard {
     public JFXTextArea leaderboard,quizscore;
     @FXML
