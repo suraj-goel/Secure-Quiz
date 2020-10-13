@@ -11,6 +11,7 @@ A secure platform for quiz where everything is secure and a teacher can add a qu
 8. The student is shown with the total points after the completion of the exam, if the teacher has added the solution by 
 the time student submitted his solution otherwise show the status as pending for evaluation.
 9. The students can ask a query to the teacher to which the teacher may/may not respond.
+
 ## Advance Features:
 1. The questions can be of different types(Single Choice Correct MCQs, Multiple
 Choice Correct MCQs, T/F).
