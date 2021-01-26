@@ -1,7 +1,7 @@
 # Secure-Quiz
 A secure platform for quiz where everything is secure and a teacher can add a quiz and multiple students can give the quiz.
 ## Basic Features:
-1. Create a Teacher/Student Account.
+1. Create a Teacher/Student Account
 2. Teacher can add new subject and host multiple quizzes under one subject.
 3. Teacher can add various sections to a quiz and allot different time limit to each section.
 4. Teacher can also add solution to quiz.
